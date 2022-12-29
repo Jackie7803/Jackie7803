@@ -1,11 +1,7 @@
 - 👋 Hi, I’m @Jackie7803 Jackie Wang
 - 👀 Fans of learning coding
 - 🌱 Already have some knowledge of HTML / CSS / Figma / Git
-- 📫 Plan of year 2023:
--      JavaScript basic
--      Framework Vue.js or React.js
--      MySQL
--      Flutter
+- 📫 Plan of year 2023: JavaScript / Framework Vue.js or React.js / MySQL / Flutter
 
 
 <!---
