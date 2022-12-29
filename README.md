@@ -2,10 +2,10 @@
 - 👀 Fans of learning coding
 - 🌱 Already have some knowledge of HTML / CSS / Figma / Git
 - 📫 Plan of year 2023:
--      a. JavaScript basic
--      b. Vue.js or React.js
--      c. MySQL
--      d. Flutter
+-      JavaScript basic
+-      Framework Vue.js or React.js
+-      MySQL
+-      Flutter
 
 
 <!---
