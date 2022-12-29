@@ -1,7 +1,12 @@
 - 👋 Hi, I’m @Jackie7803 Jackie Wang
-- 👀 I’m interested in Figma & Javascript
-- 🌱 I’m currently learning Javascript
-- 📫 My Email: jackie7803@163.com  |   Wechat:13916601361   |  twitter: jackiewang70
+- 👀 Fans of learning coding
+- 🌱 Already have some knowledge of HTML / CSS / Figma / Git
+- 📫 Plan of year 2023:
+-      a. JavaScript basic
+-      b. Vue.js or React.js
+-      c. MySQL
+-      d. Flutter
+
 
 <!---
 Jackie7803/Jackie7803 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
